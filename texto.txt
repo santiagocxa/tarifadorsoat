@@ -1,2 +1,2 @@
-este es un archivo vi
+este es archivo vi
 esta es una nueva linea en un nuevo commit
