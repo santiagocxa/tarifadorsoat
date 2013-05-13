@@ -1,2 +1,3 @@
-este es archivo vi
+este es archivo vi prueba
 esta es una nueva linea en un nuevo commit
+insertando tercera linea
