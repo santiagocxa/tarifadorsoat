@@ -1,2 +1,4 @@
-nuevas lineas de texto
-en documento nuevo
+nuevas lineas para el documento
+en documento nuevo 
+continuando con la edicion
+del documento de prueba
